@@ -28,7 +28,3 @@ Puede personalizar la ruta del archivo CSV predeterminado modificando la variabl
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si desea mejorar este proyecto o agregar nuevas características, no dude en crear un pull request.
-
-## Licencia
-
-Este proyecto se encuentra bajo la licencia [MIT](LICENSE).

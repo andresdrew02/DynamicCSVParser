@@ -17,9 +17,8 @@ Este proyecto es un visor dinámico de archivos CSV construido en Python utiliza
 ## Uso
 
 1. Ejecute el archivo `main.py` para iniciar la aplicación.
-2. La aplicación cargará automáticamente un archivo CSV ubicado en la ruta predeterminada.
+2. La aplicación cargará automáticamente un archivo CSV ubicado en la ruta predeterminada, pero antes pedirá al usuario elegir un archivo por si quiere cargar un archivo CSV diferente
 3. La interfaz se actualizará automáticamente cada 5 segundos con los datos más recientes del archivo.
-4. Si desea seleccionar un archivo CSV diferente, haga clic en el botón "Seleccionar archivo" y elija el archivo deseado.
 
 ## Configuración
 
